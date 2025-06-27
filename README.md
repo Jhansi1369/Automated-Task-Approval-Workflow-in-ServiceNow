@@ -25,11 +25,6 @@ This project demonstrates a custom task table with approval workflow using Flow 
 - Approval requested from "Alice P"
 - Approval tracked via `My Approvals`
 
-## 📸 Screenshots
-
-| Trigger and Flow | Ask for Approval | Alice Approvals |
-|------------------|------------------|-----------------|
-| ![](screenshots/flow-trigger.png) | ![](screenshots/ask-for-approval.png) | ![](screenshots/approval-records.png) |
 
 ## 💾 Update Set
 
